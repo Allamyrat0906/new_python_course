@@ -89,8 +89,16 @@ multy comment
 # print("new value B", b)
 # print("new value C", c)
 
-a=int(input("Enter:a  "))
-a=a*a
-a=a*a
-a=a*a
-print("new value A", a)
+# a=int(input("Enter:a  "))
+# a=a*a
+# a=a*a
+# a=a*a
+# print("new value A", a)
+
+
+
+# week=["Sunday","Monday", "Thuesday","Wednesday","Thursday","Friday","Saturday"]
+# k=int(input("Enter a day:  "))
+# getWeek=k%7
+# choose=week[getWeek]
+# print("Today is ", choose)
